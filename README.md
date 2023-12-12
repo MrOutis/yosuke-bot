@@ -9,3 +9,45 @@
 Precisa de ajuda ? Entra em nosso Chat: 
 
 https://chat.whatsapp.com/FZ7Si3fWIOQL0mqUqgtXfP
+
+
+
+
+COMANDOS DE INSTALAÇÃO 
+
+
+1° COMANDO:
+
+```
+termux-change-repo
+```
+Marcar a primeira caixinha depois a terceira e confirmar
+
+2° COMANDO:
+```
+termux-setup-storage
+```
+Permite e confirmar 
+
+3° COMANDO:
+```
+cd /sdcard/
+```
+
+4° COMANDO:
+```
+git clone https://github.com/pxzmods/yosuke-bot.git
+```
+
+5° COMANDO:
+```
+cd /sdcard/yosuke-bot_4.6
+```
+6° COMANDO:
+```
+sh install.sh
+```
+7° COMANDO:
+```
+sh start.sh
+```
