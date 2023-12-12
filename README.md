@@ -6,9 +6,9 @@
   <a href="https://github.com/pxzmods/yosuke-bot.git"><img title="Author" src="https://img.shields.io/badge/Versão-4.6-cyan.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
 
-Precisa de ajuda ? Entra em nosso Chat: 
+Precisa de ajuda ? Acesse: 
 
-https://chat.whatsapp.com/FZ7Si3fWIOQL0mqUqgtXfP
+wa.me/558598188647 
 
 
 
