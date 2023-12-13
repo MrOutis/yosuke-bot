@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/d306e6c8a72e8ead7fe2a.jpg" alt="Yosuke bot" width="300" />
+<img src="https://es.web.img3.acsta.net/r_1920_1080/pictures/14/10/27/10/59/140682.jpg" alt="Yosuke bot" width="300" />
 
 </div>
 <p align="center">
